@@ -2,14 +2,14 @@
 <svg
    baseprofile="tiny"
    fill="#6f9c76"
-   height="911.99994"
+   height="500"
    stroke="#ffffff"
    stroke-linecap="round"
    stroke-linejoin="round"
    stroke-width="0.5"
    version="1.2"
-   viewbox="1000 1000"
-   width="840"
+   viewBox="0 0 1000 1000"
+   width="500"
    id="mapa"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
