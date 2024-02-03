@@ -2,7 +2,6 @@
 <svg
    baseprofile="tiny"
    fill="#6f9c76"
-   id="mapa"
    height="911.99994"
    stroke="#ffffff"
    stroke-linecap="round"
@@ -11,10 +10,9 @@
    version="1.2"
    viewbox="1000 1000"
    width="840"
+   id="mapa"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
->
-   
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs19" />
   <g
